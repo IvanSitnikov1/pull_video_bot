@@ -11,6 +11,9 @@
 ![Image alt](https://github.com/IvanSitnikov1/pull_video_bot/blob/main/screenshots/1.png)  
 ![Image alt](https://github.com/IvanSitnikov1/pull_video_bot/blob/main/screenshots/2.png)  
 
+#### Стек:  
+Python, aiogram3, asyncio, gspread, pytube, yadisk
+
 ---
 
 Перед запуском необходимо создать файл config.py и задать в нем свои переменные:  
